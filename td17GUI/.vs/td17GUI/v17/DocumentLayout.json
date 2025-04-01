@@ -1,0 +1,422 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\84387\\td17Framework\\td17GUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|c:\\users\\84387\\td17framework\\td17gui\\ui\\textbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|solutionrelative:ui\\textbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|c:\\users\\84387\\td17framework\\td17gui\\ui\\widget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|solutionrelative:ui\\widget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|c:\\users\\84387\\td17framework\\td17gui\\ui\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|solutionrelative:ui\\window.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|c:\\users\\84387\\td17framework\\td17gui\\app\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|solutionrelative:app\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|c:\\users\\84387\\td17framework\\td17gui\\ui\\complexwidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|solutionrelative:ui\\complexwidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|c:\\users\\84387\\td17framework\\td17gui\\ui\\flowlayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|solutionrelative:ui\\flowlayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|c:\\users\\84387\\td17framework\\td17gui\\ui\\layout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|solutionrelative:ui\\layout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|c:\\users\\84387\\td17framework\\td17gui\\ui\\shapewidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|solutionrelative:ui\\shapewidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|c:\\users\\84387\\td17framework\\td17gui\\graphics\\tearectshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|solutionrelative:graphics\\tearectshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|c:\\users\\84387\\td17framework\\td17gui\\ui\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|solutionrelative:ui\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|c:\\users\\84387\\td17framework\\td17gui\\ui\\label.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|solutionrelative:ui\\label.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|c:\\users\\84387\\td17framework\\td17gui\\graphics\\teatext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|solutionrelative:graphics\\teatext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|c:\\users\\84387\\td17framework\\td17gui\\utilities\\teafont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|solutionrelative:utilities\\teafont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|c:\\users\\84387\\td17framework\\td17gui\\utilities\\teacolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|solutionrelative:utilities\\teacolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|c:\\users\\84387\\td17framework\\td17gui\\ui\\boxlayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|solutionrelative:ui\\boxlayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|c:\\users\\84387\\td17framework\\td17gui\\ui\\panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|solutionrelative:ui\\panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|c:\\users\\84387\\td17framework\\td17gui\\ui\\orientation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|solutionrelative:ui\\orientation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|c:\\users\\84387\\td17framework\\td17gui\\ui\\iwidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|solutionrelative:ui\\iwidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|c:\\users\\84387\\td17framework\\td17gui\\ui\\iinteractive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|solutionrelative:ui\\iinteractive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|c:\\users\\84387\\td17framework\\td17gui\\ui\\interactivewidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|solutionrelative:ui\\interactivewidget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|c:\\users\\84387\\td17framework\\td17gui\\ui\\icontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|solutionrelative:ui\\icontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|c:\\users\\84387\\td17framework\\td17gui\\ui\\gridlayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|solutionrelative:ui\\gridlayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|c:\\users\\84387\\td17framework\\td17gui\\utilities\\textalign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18FE294E-E892-40CE-9C8C-EEC2E482B7DE}|td17GUI.csproj|solutionrelative:utilities\\textalign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextBox.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\TextBox.cs",
+              "RelativeDocumentMoniker": "UI\\TextBox.cs",
+              "ToolTip": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\TextBox.cs",
+              "RelativeToolTip": "UI\\TextBox.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAIwMcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:03:36.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\td17Framework\\td17GUI\\App\\App.cs",
+              "RelativeDocumentMoniker": "App\\App.cs",
+              "ToolTip": "C:\\Users\\84387\\td17Framework\\td17GUI\\App\\App.cs",
+              "RelativeToolTip": "App\\App.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAjwAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T09:12:49.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComplexWidget.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\ComplexWidget.cs",
+              "RelativeDocumentMoniker": "UI\\ComplexWidget.cs",
+              "ToolTip": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\ComplexWidget.cs",
+              "RelativeToolTip": "UI\\ComplexWidget.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:35:23.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShapeWidget.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\ShapeWidget.cs",
+              "RelativeDocumentMoniker": "UI\\ShapeWidget.cs",
+              "ToolTip": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\ShapeWidget.cs",
+              "RelativeToolTip": "UI\\ShapeWidget.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvxgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:31:35.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FlowLayout.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\FlowLayout.cs",
+              "RelativeDocumentMoniker": "UI\\FlowLayout.cs",
+              "ToolTip": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\FlowLayout.cs",
+              "RelativeToolTip": "UI\\FlowLayout.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T12:40:29.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Layout.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\Layout.cs",
+              "RelativeDocumentMoniker": "UI\\Layout.cs",
+              "ToolTip": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\Layout.cs",
+              "RelativeToolTip": "UI\\Layout.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T12:24:46.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\Window.cs",
+              "RelativeDocumentMoniker": "UI\\Window.cs",
+              "ToolTip": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\Window.cs",
+              "RelativeToolTip": "UI\\Window.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAALEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T09:58:30.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Widget.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\Widget.cs",
+              "RelativeDocumentMoniker": "UI\\Widget.cs",
+              "ToolTip": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\Widget.cs",
+              "RelativeToolTip": "UI\\Widget.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T10:04:09.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TeaRectShape.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\td17Framework\\td17GUI\\Graphics\\TeaRectShape.cs",
+              "RelativeDocumentMoniker": "Graphics\\TeaRectShape.cs",
+              "ToolTip": "C:\\Users\\84387\\td17Framework\\td17GUI\\Graphics\\TeaRectShape.cs",
+              "RelativeToolTip": "Graphics\\TeaRectShape.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T16:44:15.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Button.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\Button.cs",
+              "RelativeDocumentMoniker": "UI\\Button.cs",
+              "ToolTip": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\Button.cs",
+              "RelativeToolTip": "UI\\Button.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T10:23:15.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Label.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\Label.cs",
+              "RelativeDocumentMoniker": "UI\\Label.cs",
+              "ToolTip": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\Label.cs",
+              "RelativeToolTip": "UI\\Label.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T07:12:46.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TeaText.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\td17Framework\\td17GUI\\Graphics\\TeaText.cs",
+              "RelativeDocumentMoniker": "Graphics\\TeaText.cs",
+              "ToolTip": "C:\\Users\\84387\\td17Framework\\td17GUI\\Graphics\\TeaText.cs",
+              "RelativeToolTip": "Graphics\\TeaText.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T11:12:09.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TeaFont.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\td17Framework\\td17GUI\\Utilities\\TeaFont.cs",
+              "RelativeDocumentMoniker": "Utilities\\TeaFont.cs",
+              "ToolTip": "C:\\Users\\84387\\td17Framework\\td17GUI\\Utilities\\TeaFont.cs",
+              "RelativeToolTip": "Utilities\\TeaFont.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T11:43:04.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TeaColor.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\td17Framework\\td17GUI\\Utilities\\TeaColor.cs",
+              "RelativeDocumentMoniker": "Utilities\\TeaColor.cs",
+              "ToolTip": "C:\\Users\\84387\\td17Framework\\td17GUI\\Utilities\\TeaColor.cs",
+              "RelativeToolTip": "Utilities\\TeaColor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T09:44:13.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BoxLayout.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\BoxLayout.cs",
+              "RelativeDocumentMoniker": "UI\\BoxLayout.cs",
+              "ToolTip": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\BoxLayout.cs",
+              "RelativeToolTip": "UI\\BoxLayout.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T12:41:11.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Panel.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\Panel.cs",
+              "RelativeDocumentMoniker": "UI\\Panel.cs",
+              "ToolTip": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\Panel.cs",
+              "RelativeToolTip": "UI\\Panel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T12:33:50.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Orientation.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\Orientation.cs",
+              "RelativeDocumentMoniker": "UI\\Orientation.cs",
+              "ToolTip": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\Orientation.cs",
+              "RelativeToolTip": "UI\\Orientation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T10:42:05.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IWidget.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\IWidget.cs",
+              "RelativeDocumentMoniker": "UI\\IWidget.cs",
+              "ToolTip": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\IWidget.cs",
+              "RelativeToolTip": "UI\\IWidget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:20:36.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IInteractive.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\IInteractive.cs",
+              "RelativeDocumentMoniker": "UI\\IInteractive.cs",
+              "ToolTip": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\IInteractive.cs",
+              "RelativeToolTip": "UI\\IInteractive.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:08:58.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InteractiveWidget.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\InteractiveWidget.cs",
+              "RelativeDocumentMoniker": "UI\\InteractiveWidget.cs",
+              "ToolTip": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\InteractiveWidget.cs",
+              "RelativeToolTip": "UI\\InteractiveWidget.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvwsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:07:40.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IContainer.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\IContainer.cs",
+              "RelativeDocumentMoniker": "UI\\IContainer.cs",
+              "ToolTip": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\IContainer.cs",
+              "RelativeToolTip": "UI\\IContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T13:11:17.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GridLayout.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\GridLayout.cs",
+              "RelativeDocumentMoniker": "UI\\GridLayout.cs",
+              "ToolTip": "C:\\Users\\84387\\td17Framework\\td17GUI\\UI\\GridLayout.cs",
+              "RelativeToolTip": "UI\\GridLayout.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T12:38:31.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TextAlign.cs",
+              "DocumentMoniker": "C:\\Users\\84387\\td17Framework\\td17GUI\\Utilities\\TextAlign.cs",
+              "RelativeDocumentMoniker": "Utilities\\TextAlign.cs",
+              "ToolTip": "C:\\Users\\84387\\td17Framework\\td17GUI\\Utilities\\TextAlign.cs",
+              "RelativeToolTip": "Utilities\\TextAlign.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T10:25:08.683Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
